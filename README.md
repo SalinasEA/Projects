@@ -7,6 +7,7 @@
 ### https://github.com/SalinasEA/Projects
 ### https://linkedin.com/in/SalinasEA
 
+## OBJECTIVE
 Software Engineering B.S. candidate targeting Software Engineer Intern roles. Strengths in
 Java/Spring and SQL, with solid Python and front-end (HTML/CSS/JS/TS/Angular).
 Comfortable modeling domains with JPA, building REST APIs, enforcing validation, and
@@ -59,8 +60,6 @@ Edinburg, Texas
 
 
 ## PROJECTS
-
-## OBJECTIVE
 
 Vacation Booking Backend MVP (Capstone, WGU D288) — Spring Boot, Spring Data JPA/REST, MySQL, Lombok, Angular integration
 Ported legacy backend to modern Spring: domain entities & repositories (CORS), transactional checkout service (UUID order tracking), and POST /api/checkout/purchase.
